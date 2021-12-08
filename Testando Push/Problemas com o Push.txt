@@ -1,0 +1,2 @@
+estava efetuando o push normalmente quando iniciei o curso e depois de um tempo começou a aparecer um pedido de token.
+Estou fazendo esse teste em outra pasta para ver se eu consigo empurrar para o github
